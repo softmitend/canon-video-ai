@@ -11,9 +11,9 @@ Gunakan blok ini sebagai canon identitas karakter untuk seluruh frame scene ini.
 ```text
 Use the exact same adult female character from the provided character reference sheet. Preserve her identity perfectly across every frame: identical facial structure, eye shape, iris color, nose, lips, jawline, skin tone, body proportions, hair color, hair length, and overall appearance.
 
-She has a soft, delicate feminine face with a calm but naturally charismatic presence. Oval face, soft jawline, petite straight nose, large almond-shaped light blue-gray eyes, long delicate eyelashes, softly arched eyebrows, naturally pink lips, luminous fair skin.
+She has a soft, delicate feminine face with a calm but naturally charismatic presence. Oval face, soft jawline, petite straight nose, large almond-shaped light grey eyes with a subtle cool bluish tint, long delicate eyelashes, softly arched eyebrows, naturally pink lips, luminous fair skin.
 
-Her long dusty-pink hair with subtle powder-blue sections is completely loose and naturally messy from sleeping. No bow, no ribbons, no clips, no jewelry, no hair accessories.
+Her long hair is mainly dusty pink and completely loose, naturally messy from sleeping, with no powder-blue sections, no blue streaks, and no contrasting colored face-framing sections. No bow, no ribbons, no clips, no jewelry, no hair accessories.
 
 She is wearing the exact same sleepwear in every frame: an elegant ivory satin pajama set, relaxed long-sleeved button-up pajama shirt, subtle piping, soft loose fabric, modest and natural fit.
 
@@ -37,7 +37,7 @@ Cinematic low-key lighting, warm practical light, subtle blue moonlight from the
 Gunakan pada semua frame jika generator mendukung negative prompt.
 
 ```text
-different character, different face, changing facial structure, changing eye color, changing hairstyle, hair accessories, ribbon, bow, hair clips, jewelry, different pajamas, different bedroom, daytime, sunlight, smiling, cheerful expression, childish face, chibi, exaggerated anime reaction, screaming, cartoon panic, excessive tears, erotic pose, revealing sleepwear, distorted anatomy, malformed hands, extra fingers, missing fingers, extra arms, duplicated body parts, asymmetrical eyes, crossed eyes, warped face, broken wrists, floating hands, inconsistent hair length, inconsistent hair color, changing furniture, changing window position, oversaturated lighting, neon lighting, fisheye distortion, extreme wide angle
+different character, different face, changing facial structure, changing eye color, changing hairstyle, hair accessories, ribbon, bow, hair clips, jewelry, powder-blue hair sections, blue hair streaks, two-tone pink-and-blue hair, contrasting colored face-framing sections, different pajamas, different bedroom, daytime, sunlight, smiling, cheerful expression, childish face, chibi, exaggerated anime reaction, screaming, cartoon panic, excessive tears, erotic pose, revealing sleepwear, distorted anatomy, malformed hands, extra fingers, missing fingers, extra arms, duplicated body parts, asymmetrical eyes, crossed eyes, warped face, broken wrists, floating hands, inconsistent hair length, inconsistent hair color, changing furniture, changing window position, oversaturated lighting, neon lighting, fisheye distortion, extreme wide angle
 ```
 
 ---
@@ -51,7 +51,7 @@ Extreme close-up cinematic shot of the sleeping woman's face lying sideways agai
 
 Her eyes are closed. At first glance she appears asleep, but there is subtle tension beginning to form around her eyebrows and eyelids. Her breathing feels slightly uneasy.
 
-A few strands of her long loose hair fall naturally across the pillow and beside her cheek.
+A few strands of her long loose dusty-pink hair fall naturally across the pillow and beside her cheek.
 
 Very subtle perspiration beginning to appear near her forehead and temples.
 
@@ -81,7 +81,7 @@ Small beads of sweat are visible along her forehead and temples.
 
 Her expression clearly shows subconscious fear despite still being asleep.
 
-A few loose strands of hair cling slightly to her damp forehead.
+A few loose strands of dusty-pink hair cling slightly to her damp forehead.
 
 Keep her head resting against the same pillow in exactly the same orientation.
 
@@ -101,7 +101,7 @@ Sweat beads clearly visible across her forehead, upper lip and temples.
 
 Her head subtly presses deeper against the pillow as if recoiling from something inside the dream.
 
-One small lock of damp hair sticks to her cheek.
+One small lock of damp dusty-pink hair sticks to her cheek.
 
 Very subtle tension in her jaw.
 
@@ -119,13 +119,13 @@ Same exact close-up composition.
 
 The woman suddenly wakes from the nightmare.
 
-Her eyes snap completely open, pupils focused but momentarily disoriented, expression shocked and frightened.
+Her light grey eyes with a subtle cool bluish tint snap completely open, pupils focused but momentarily disoriented, expression shocked and frightened.
 
 Her eyebrows remain tense, lips slightly parted as she takes a sudden sharp breath.
 
 Sweat visibly covers her forehead and temples.
 
-Her loose hair remains disheveled across the pillow.
+Her loose dusty-pink hair remains disheveled across the pillow.
 
 Her body has not sat up yet. Only the face and upper neck show the sudden awakening.
 
@@ -145,9 +145,9 @@ The same woman abruptly pushes her upper body upward after waking from the night
 
 Her torso is halfway between lying down and sitting upright.
 
-Her eyes remain wide and unfocused, breathing heavily, visibly shaken.
+Her light grey eyes with a subtle cool bluish tint remain wide and unfocused, breathing heavily, visibly shaken.
 
-Her long loose hair falls chaotically behind her shoulders and across her chest due to the sudden movement.
+Her long loose dusty-pink hair falls chaotically behind her shoulders and across her chest due to the sudden movement.
 
 Ivory satin pajama shirt slightly wrinkled naturally from sleeping.
 
@@ -175,7 +175,7 @@ Her gaze points downward slightly, as though trying to understand whether what s
 
 Sweat remains visible across her face and neck.
 
-Her long loose hair falls messily over both shoulders and down her back.
+Her long loose dusty-pink hair falls messily over both shoulders and down her back.
 
 Her hands rest temporarily on the bedsheets beside her legs.
 
@@ -197,11 +197,11 @@ Her shoulders collapse forward slightly as adrenaline begins to fade.
 
 Her expression changes from immediate fear into exhausted disbelief.
 
-Her eyes are half-focused downward.
+Her light grey eyes with a subtle cool bluish tint are half-focused downward.
 
 Both hands are approaching her cheeks and forehead.
 
-Her long hair falls forward naturally with the movement.
+Her long dusty-pink hair falls forward naturally with the movement.
 
 Pajama sleeves shift realistically around her wrists.
 
@@ -227,7 +227,7 @@ Her shoulders lean slightly forward.
 
 The gesture feels frustrated, overwhelmed and disbelieving, as though she is desperately trying to pull herself back into reality after the nightmare.
 
-Her long loose hair falls forward around her arms and shoulders.
+Her long loose dusty-pink hair falls forward around her arms and shoulders.
 
 Slightly messy bedding visible around her.
 
@@ -243,13 +243,13 @@ Same woman sitting in bed, front three-quarter view.
 
 She slowly lowers both hands away from her face.
 
-Her eyes shift toward the large window on her left.
+Her light grey eyes with a subtle cool bluish tint shift toward the large window on her left.
 
 Her expression changes from disbelief into alert curiosity and lingering unease.
 
 Her head begins turning left while her shoulders remain mostly facing forward.
 
-Her loose hair subtly follows the movement.
+Her loose dusty-pink hair subtly follows the movement.
 
 A brighter flash of distant lightning briefly illuminates the room with cold blue-white light.
 
@@ -271,7 +271,7 @@ She turns her head toward the left side of the room, looking toward the large be
 
 Her face is mostly seen in partial profile while her attention is fully directed away from the camera.
 
-Her long loose hair flows naturally down her back, partially covering the pajama shirt.
+Her long loose dusty-pink hair flows naturally down her back, partially covering the pajama shirt.
 
 One hand rests loosely on the bedsheet beside her, the other near her lap.
 
@@ -301,7 +301,7 @@ Tree silhouettes outside move slightly in the storm.
 
 Her posture is tense but quiet, as though something about the nightmare still feels disturbingly real.
 
-Her long dusty-pink and muted powder-blue hair cascades naturally down her back with no accessories.
+Her long mainly dusty-pink hair cascades naturally down her back with no accessories, no powder-blue sections, and no blue streaks.
 
 The bedroom remains warm and dim while the outside world is deep blue-black.
 
@@ -325,9 +325,9 @@ Cold white-blue lightning briefly floods through the window and silhouettes the 
 
 Her face becomes partially illuminated from the side, revealing a subtle expression of unease and recognition.
 
-Her eyes remain fixed on something outside, or perhaps simply lost in thought.
+Her light grey eyes with a subtle cool bluish tint remain fixed on something outside, or perhaps simply lost in thought.
 
-Her long loose hair catches the sharp lightning rim light.
+Her long loose dusty-pink hair catches the sharp lightning rim light.
 
 Warm bedside lamp remains visible behind her, creating dramatic contrast between warm amber interior light and cold violent storm light.
 
@@ -371,7 +371,7 @@ stillness → lightning flash
 - Emotional arc: subconscious fear → sudden panic → disbelief → controlled tension → ominous stillness.
 - Avoid dreamy/coquette cinematography for this scene. Character design remains beautiful and soft, but the scene itself should feel restrained, intimate, and psychologically tense.
 - Prefer microexpressions over exaggerated anime reactions.
-- Keep the window position, bed position, lamp position, costume, hair length, hair color, and character identity fixed across all frames.
+- Keep the window position, bed position, lamp position, costume, hair length, hair color, eye color, and character identity fixed across all frames.
 
 ## Recommended generation workflow
 
@@ -379,5 +379,5 @@ stillness → lightning flash
 2. Use the reference sheet as the primary character reference.
 3. Generate Frame 01.
 4. For Frame 02 onward, use both the character reference and previous successful frame when the model supports multiple references.
-5. Reject any frame where face identity, window layout, pajama design, or hair changes noticeably.
+5. Reject any frame where face identity, eye color, window layout, pajama design, or hair changes noticeably.
 6. Animate short transitions between neighboring keyframes, preferably 1–3 seconds each rather than trying to create the full sequence in one generation.
