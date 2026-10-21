@@ -9,11 +9,11 @@ Professional original character reference sheet / character model sheet of the e
 
 A beautiful adult woman with a soft feminine face but a firm, charismatic presence, rendered in a semi-realistic anime/manhwa style with subtle BJD doll-like elegance and polished anime realism.
 
-She has a delicate oval face, smooth soft jawline, petite straight nose, large almond-shaped light blue-gray eyes, subtle aegyo-sal, long delicate eyelashes, softly arched eyebrows, naturally soft pink lips, porcelain-like luminous skin, and subtle blush. Her facial features are gentle and refined, but her gaze is calm, steady, intelligent, and quietly commanding. She has quiet confidence, subtle authority, elegance, and composed charisma, never childish or overly cute.
+She has a delicate oval face, smooth soft jawline, petite straight nose, large almond-shaped light grey eyes with a subtle cool bluish tint, subtle aegyo-sal, long delicate eyelashes, softly arched eyebrows, naturally soft pink lips, porcelain-like luminous skin, and subtle blush. Her facial features are gentle and refined, but her gaze is calm, steady, intelligent, and quietly commanding. She has quiet confidence, subtle authority, elegance, and composed charisma, never childish or overly cute.
 
 Her softness comes from her facial features, not from weakness or childishness. She carries herself with restrained confidence and natural authority. Calm eyes, relaxed facial muscles, straight posture, controlled body language, subtle intensity in her gaze. She looks approachable at first glance but unmistakably self-assured and difficult to intimidate. Feminine, graceful, intelligent, composed, quietly dominant rather than aggressive.
 
-Long silky dusty-pink hair with soft powder-blue face-framing sections, airy wispy bangs, layered strands, and very long flowing hair reaching below the waist. A pale pink satin ribbon bow is attached consistently to the same side of her hair in every view.
+Long silky hair that is mainly dusty pink, with no powder-blue sections, blue streaks, or contrasting colored face-framing sections. Airy wispy bangs, layered strands, and very long flowing hair reaching below the waist. A pale pink satin ribbon bow is attached consistently to the same side of her hair in every view.
 
 Slender adult feminine body, graceful proportions, narrow shoulders, defined but natural waist, softly curved hips, long elegant legs, delicate arms, graceful neck and collarbones. Natural anatomy, realistic body balance, elegant posture.
 
@@ -67,7 +67,7 @@ From head to waist, clearly showing collarbones, neckline, dress construction, l
 14. Outfit detail panel
 Close-up references of the satin fabric, lace trim, waist ribbon, shoulder straps, hair ribbon, necklace/accessories, and construction details.
 
-All panels depict exactly the same woman. Identical face identity, skull shape, eye shape, iris color, nose, lips, body proportions, breast size, waist, hip width, hairstyle, hair length, hair colors, accessories, outfit construction and colors. No redesigning between panels.
+All panels depict exactly the same woman. Identical face identity, skull shape, eye shape, iris color, nose, lips, body proportions, breast size, waist, hip width, hairstyle, hair length, hair color, accessories, outfit construction and colors. No redesigning between panels.
 
 Professional animation character design sheet, clean studio presentation, neutral warm-white background, evenly spaced panels, subtle thin separators, full character clearly visible, accurate anatomy, consistent scale, consistent lighting, minimal shadows, highly detailed polished illustration, production-ready character reference, elegant editorial presentation.
 ```
@@ -75,14 +75,14 @@ Professional animation character design sheet, clean studio presentation, neutra
 ## NEGATIVE PROMPT
 
 ```text
-child, teenager, underage, loli, childish body, chibi, cartoon proportions, baby face, overly innocent expression, shy expression, exaggerated smile, bubbly personality, exaggerated anime face, huge eyes, oversized head, plastic skin, waxy skin, bad anatomy, malformed hands, extra fingers, extra limbs, asymmetrical eyes, distorted face, overly sharp jaw, muscular body, exaggerated curves, hypersexual pose, heavy makeup, harsh shadows, oversaturated colors, neon colors, messy inconsistent hair, low resolution, blurry face, flat lighting, 3D game render, obvious CGI, inconsistent character design, different face between panels, different hairstyle between panels, changing hair length, changing hair color, changing eye color, changing body proportions, changing outfit, missing ribbons, extra ribbons, fisheye distortion
+child, teenager, underage, loli, childish body, chibi, cartoon proportions, baby face, overly innocent expression, shy expression, exaggerated smile, bubbly personality, exaggerated anime face, huge eyes, oversized head, plastic skin, waxy skin, bad anatomy, malformed hands, extra fingers, extra limbs, asymmetrical eyes, distorted face, overly sharp jaw, muscular body, exaggerated curves, hypersexual pose, heavy makeup, harsh shadows, oversaturated colors, neon colors, messy inconsistent hair, powder-blue hair sections, blue hair streaks, two-tone pink-and-blue hair, contrasting colored face-framing sections, low resolution, blurry face, flat lighting, 3D game render, obvious CGI, inconsistent character design, different face between panels, different hairstyle between panels, changing hair length, changing hair color, changing eye color, changing body proportions, changing outfit, missing ribbons, extra ribbons, fisheye distortion
 ```
 
 ## Canon visual singkat
 
 - Wajah: soft, feminin, delicate.
 - Aura: tegas, composed, calm charisma, quiet confidence.
-- Mata: light blue-gray, almond-shaped, steady gaze.
-- Rambut: dusty pink dengan powder-blue face-framing sections, sangat panjang.
+- Mata: light grey dengan subtle cool bluish tint, almond-shaped, steady gaze.
+- Rambut: mainly dusty pink, sangat panjang, tanpa powder-blue sections atau blue streaks.
 - Style: semi-realistic anime/manhwa + subtle BJD elegance + cinematic anime realism.
 - Prinsip utama: **soft face, strong presence**.
